@@ -4,8 +4,8 @@ environment:
     TARGET_BRANCH: master
     GIT_USER_EMAIL: zhu-hero@qq.com
     GIT_USER_NAME: Moxikai
-access_token:
-    secure: lBFb0eHr9W+OP4g9hJUMBn3EZabGIAkoenMJ3L3WMqy25QvmXGHs5Hup36cSOGrB
+    access_token:
+      secure: lBFb0eHr9W+OP4g9hJUMBn3EZabGIAkoenMJ3L3WMqy25QvmXGHs5Hup36cSOGrB
 install:
 - node --version
 - npm --version
